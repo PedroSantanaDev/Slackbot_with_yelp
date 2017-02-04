@@ -1,0 +1,168 @@
+/*"StAuth10065: I Pedro Santana Minalla, 000313753 certify that this material is my
+ original work. No other person's work has been used without due 
+ acknowledgement. I have not made my work available to anyone else."*/
+
+
+
+pedro [4:34 PM]  
+Nearby 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+Yelp Help BOT [4:34 PM]  
+1) Restaurant Name: Memphis Fire Barbeque Company
+   Address: 1091 King's Highway 8
+2) Restaurant Name: The Innsville
+   Address: 1143 Highway No 8
+3) Restaurant Name: Tim Hortons
+   Address: 1242 Highway 8
+4) Restaurant Name: 50 Point Market
+   Address: 15 Lockport Way
+5) Restaurant Name: Mountain Grill
+   Address: 1065 Highway 8
+
+
+pedro [4:36 PM]  
+Closeby 79.8861W 43.2383N
+
+
+
+Yelp Help BOT [4:36 PM]  
+1) Restaurant Name: The Ship
+   Address: 23 Augusta Street
+2) Restaurant Name: Earth To Table : Bread Bar
+   Address: 258 Locke Street S
+3) Restaurant Name: Rapscallion Rogue Eatery
+   Address: 61 Young Street
+4) Restaurant Name: Pho Binh Minh
+   Address: 740 Upper James Street
+5) Restaurant Name: Aberdeen Tavern
+   Address: 432 Aberdeen Avenue
+
+
+pedro [4:37 PM]  
+Top 10 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+Yelp Help BOT [4:37 PM]  
+1) Restaurant Name: Gilda's
+   Address: 12 W Genesee St
+2) Restaurant Name: The Krebs
+   Address: 53 W Genesee St
+3) Restaurant Name: Doug's Fish Fry
+   Address: 8 Jordan St
+4) Restaurant Name: Rosalie's Cucina
+   Address: 841 W Genesee St Rd
+5) Restaurant Name: Finger Lakes On Tap
+   Address: 35 Fennell St
+6) Restaurant Name: Moro's Kitchen
+   Address: 28 Jordan St
+7) Restaurant Name: Joelle's French Bistro
+   Address: 4423 State street Rd
+8) Restaurant Name: Blue Water Grill
+   Address: 11 W Genesee St
+9) Restaurant Name: Sherwood Inn
+   Address: 26 W Genesee St
+10) Restaurant Name: LakeHouse Pub
+   Address: 6 W Genesee St
+
+
+pedro [4:37 PM]  
+Closest 7 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+Yelp Help BOT [4:37 PM]  
+1) Restaurant Name: Gilda's
+   Address: 12 W Genesee St
+2) Restaurant Name: The Krebs
+   Address: 53 W Genesee St
+3) Restaurant Name: Doug's Fish Fry
+   Address: 8 Jordan St
+4) Restaurant Name: Rosalie's Cucina
+   Address: 841 W Genesee St Rd
+5) Restaurant Name: Finger Lakes On Tap
+   Address: 35 Fennell St
+6) Restaurant Name: Moro's Kitchen
+   Address: 28 Jordan St
+7) Restaurant Name: Joelle's French Bistro
+   Address: 4423 State street Rd
+
+
+pedro [4:38 PM]  
+FindMe sushi 135 Fennel Avenue West, Hamilton, Ontario
+
+
+Yelp Help BOT [4:38 PM]  
+1) Restaurant Name: August 8
+    Address: 1 Wilson Street
+   Ratings 4.5 
+2) Restaurant Name: Spring Sushi
+    Address: 1508 Upper James St
+   Ratings 4 
+3) Restaurant Name: Sapporo Japanese Restaurant
+    Address: 96 Main St E
+   Ratings 4 
+4) Restaurant Name: Sushi 'O' On Fennell
+    Address: 669 Fennell Avenue E
+   Ratings 4.5 
+5) Restaurant Name: Pokeh
+    Address: 35 York Boulevard
+   Ratings 4.5 
+6) Restaurant Name: Joya Sushi
+    Address: 1630 Main Street W
+   Ratings 4 
+7) Restaurant Name: Tatemono
+    Address: 135 King Street E
+   Ratings 3.5 
+8) Restaurant Name: Kampai
+    Address: 236 King St. W
+   Ratings 4 
+9) Restaurant Name: Hotaru Sushi
+    Address: 1686 Main Street W
+   Ratings 4 
+10) Restaurant Name: Matsuri Restaurant
+    Address: 36 King Street E
+   Ratings 3.5 
+11) Restaurant Name: August 8
+    Address: 1066 Upper James Street
+   Ratings 3 
+12) Restaurant Name: August 8
+    Address: 835 Paramount Drive
+   Ratings 3.5 
+13) Restaurant Name: Aijo Resturant
+    Address: 161 King Street E
+   Ratings 4 
+14) Restaurant Name: Chihiro Sushi
+    Address: 1441 Upper James Street
+   Ratings 4 
+15) Restaurant Name: Noodle Bar
+    Address: 1579 Main Street W
+   Ratings 3 
+16) Restaurant Name: Atami Sushi
+    Address: 2200 Rymal Rd E
+   Ratings 3.5 
+17) Restaurant Name: August 8
+    Address: 834 Brant Street
+   Ratings 3.5 
+18) Restaurant Name: Koi
+    Address: 27 Hess St S
+   Ratings 3 
+19) Restaurant Name: Mikado Japanese Restaurant
+    Address: 415 Elizabeth St
+   Ratings 3.5 
+20) Restaurant Name: Ichiban Sushi House
+    Address: 3315 Fairview Street
+   Ratings 4.5
+
+
+
+pedro [4:40 PM] 
+SearchByPhone 19053887482
+
+
+
+Yelp Help BOT [4:41 PM]  
+1) Restaurant Name: Pita Pit
+    Address: 649 Upper James Street
